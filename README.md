@@ -1,4 +1,10 @@
+![GalacticFiles Banner](https://galacticfiles.com/images/galacticfiles2.png)
+
 # jgalacticapi
+
+[Download the latest jar file](https://github.com/galacticfls/jgalacticapi/releases)
+
+[View the API javadoc](http://galacticfls.github.io/jgalacticapi/javadoc/index.html)
 
 This software library allows people to access galacticfiles.com programmatically.  It enables the use of the following features.
 
