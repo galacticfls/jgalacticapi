@@ -1,0 +1,1 @@
+javadoc -public -d javadoc  src/com/galacticfiles/AddressInfo.java src/com/galacticfiles/CheckData.java src/com/galacticfiles/DepositInfo.java src/com/galacticfiles/DownloadLink.java src/com/galacticfiles/FileInfo.java src/com/galacticfiles/GFSession.java src/com/galacticfiles/WithdrawInfo.java  src/com/galacticfiles/AccountGenerator.java 
