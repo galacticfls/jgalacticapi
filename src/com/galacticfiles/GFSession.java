@@ -51,6 +51,11 @@ public class GFSession {
 	/**
 	 * Create a new account.  Note, acceptTerms must have been called with "true"
 	 * before this will work.
+	 * <br>
+	 * WARNING: For a given IP address new accounts may only be created
+	 * about every 5 minutes.  Be sure to call check() after this to make
+	 * sure your user id was successfully created.
+	 * <br>
 	 * @param userid A new user id.  It must not already exist.
 	 * @param password A valid password.  Passwords must contain at least one symbol,
 	 * an upper case letter, and a number.
